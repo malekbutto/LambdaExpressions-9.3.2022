@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LambdaExpressions - 9.3.2022/1.0.0": {
+        "runtime": {
+          "LambdaExpressions - 9.3.2022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LambdaExpressions - 9.3.2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
